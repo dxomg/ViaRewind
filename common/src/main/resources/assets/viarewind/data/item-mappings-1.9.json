@@ -5,39 +5,9 @@
       "data": "0",
       "name": "1.9 End Rod"
     },
-    "204": {
-      "id": "43",
-      "data": "7",
-      "name": "1.9 Purpur Double Slab"
-    },
-    "205": {
-      "id": "44",
-      "data": "7",
-      "name": "1.9 Purpur Slab"
-    },
     "426": {
       "id": "410",
       "name": "1.9 End Crystal"
-    },
-    "432": {
-      "id": "322",
-      "name": "1.9 Chorus Fruit"
-    },
-    "433": {
-      "id": "393",
-      "name": "1.9 Popped Chorus Fruit"
-    },
-    "434": {
-      "id": "391",
-      "name": "1.9 Beetroot"
-    },
-    "435": {
-      "id": "361",
-      "name": "1.9 Beetroot Seeds"
-    },
-    "436": {
-      "id": "282",
-      "name": "1.9 Beetroot Soup"
     },
     "437": {
       "id": "373",
@@ -54,10 +24,6 @@
     "442": {
       "id": "425",
       "name": "1.9 Shield"
-    },
-    "443": {
-      "id": "299",
-      "name": "1.9 Elytra"
     },
     "444": {
       "id": "333",
@@ -90,25 +56,6 @@
       "id": "35",
       "data": "2",
       "name": "1.9 Chorus Flower"
-    },
-    "201": {
-      "id": "155",
-      "data": "0",
-      "name": "1.9 Purpur Block"
-    },
-    "202": {
-      "id": "155",
-      "data": "2",
-      "name": "1.9 Purpur Pillar"
-    },
-    "206": {
-      "id": "121",
-      "data": "0",
-      "name": "1.9 Endstone Bricks"
-    },
-    "207": {
-      "id": "141",
-      "name": "1.9 Beetroot Block"
     },
     "208": {
       "id": "2",
@@ -149,51 +96,6 @@
       "id": "137",
       "data": "0",
       "name": "1.9 Structure Block"
-    },
-    "203:0": {
-      "id": "156",
-      "data": "0",
-      "name": "1.9 Purpur Stairs"
-    },
-    "203:1": {
-      "id": "156",
-      "data": "1",
-      "name": "1.9 Purpur Stairs"
-    },
-    "203:2": {
-      "id": "156",
-      "data": "2",
-      "name": "1.9 Purpur Stairs"
-    },
-    "203:3": {
-      "id": "156",
-      "data": "3",
-      "name": "1.9 Purpur Stairs"
-    },
-    "203:4": {
-      "id": "156",
-      "data": "4",
-      "name": "1.9 Purpur Stairs"
-    },
-    "203:5": {
-      "id": "156",
-      "data": "5",
-      "name": "1.9 Purpur Stairs"
-    },
-    "203:6": {
-      "id": "156",
-      "data": "6",
-      "name": "1.9 Purpur Stairs"
-    },
-    "203:7": {
-      "id": "156",
-      "data": "7",
-      "name": "1.9 Purpur Stairs"
-    },
-    "203:8": {
-      "id": "156",
-      "data": "8",
-      "name": "1.9 Purpur Stairs"
     },
     "397:5": {
       "id": "397",
